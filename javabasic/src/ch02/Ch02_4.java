@@ -11,6 +11,7 @@ public class Ch02_4 {
 		// 실수 float double
 		// 논리 boolean (true , false)
 
+		
 	}
 
 }
