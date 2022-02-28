@@ -70,8 +70,11 @@ public class Ch02_6 {
 		// 변수와 리터럴의 타입 불일치
 		// ok
 		int a1 = 'a';		// int > char
+		System.out.println(a1);
 		long l1 = 123;		// long > int
+		System.out.println(l1);
 		double d1 = 3.14f;	// double > float
+		System.out.println(d1);
 		
 		// 에러
 //		int i1 = 30_0000_0000;	// int의 범위를 벗어남 
