@@ -29,7 +29,7 @@ public class Ch02_6 {
 		
 		int i = 100;		// 10진수
 		System.out.println(i);
-		int oct = 0100;		// 8진수
+		int oct = 0100;		// 8진수	// 앞에 0을 추가 
 		System.out.println(oct);
 		int hex = 0x100; 	// 16진수
 		System.out.println(hex);
