@@ -1,10 +1,11 @@
 package ch05;
 
+import java.util.Arrays;
 
 public class Ch05_8_9 {
 
 	public static void main(String[] args) {
-
+		
 		// 배열의 활용
 		// 배열의 모든 요소를 더해서 총합과 평균을 구한다
 		int sum = 0;
@@ -41,7 +42,6 @@ public class Ch05_8_9 {
 		
 		System.out.println("max :"+max);
 		System.out.println("min :"+min);
-		
 		
 	}
 
