@@ -1,6 +1,6 @@
 package ch05;
 
-public class Ch05_14_15 {
+public class Ch05_14_17 {
 
 	public static void main(String[] args) {
 		//					-> 이걸 사용하는것
