@@ -22,3 +22,29 @@ public class Ch06_36_37 {
 	}
 
 }
+class Car{
+	String color;
+	String gearType;
+	int door;
+	
+	Car(){
+		// 클래스 이름을 그대로 쓰면 안된다!
+//		card("white","auto",4);
+		this("white","auto",4);
+	}
+	
+	Car(String c, String g, int d){
+		color = c;
+		gearType = g;
+		door = d;
+	}
+	
+	
+	// 지역변수(lv)와 인스턴스 변수(iv)를 구별
+//	Car(String color, String gearType, int door){
+//		this.color = color;
+//		this.gearType = gearType;
+//		this.door = door;
+//	}
+
+}
