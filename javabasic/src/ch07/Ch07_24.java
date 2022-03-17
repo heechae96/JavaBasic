@@ -1,6 +1,6 @@
 package ch07;
 
-public class Ch07_24_25 {
+public class Ch07_24 {
 
 	public static void main(String[] args) {
 
