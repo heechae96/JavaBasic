@@ -26,6 +26,7 @@ public class Ch07_31_32 {
 		ap.stop();
 		
 		// 다형성의 특징때문에 가능하다!
+		// -> 상속으로 기능이 만들어진 상태에서 리모콘으로 조작!
 		Player p = new AudioPlayer();
 		p.play(200);
 		p.stop();
