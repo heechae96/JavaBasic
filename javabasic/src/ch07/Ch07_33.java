@@ -1,6 +1,6 @@
 package ch07;
 
-public class Ch07_33_34 {
+public class Ch07_33 {
 
 	public static void main(String[] args) {
 
