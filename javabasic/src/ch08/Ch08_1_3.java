@@ -8,6 +8,7 @@ public class Ch08_1_3 {
 		
 		// 컴파일 에러(compile-time error)
 		//	-> 컴파일 할 때 발생하는 에러
+		//		-> 주로 문법적인 부분
 //		system.out.println("에러");
 		
 		// 컴파일러의 역할
