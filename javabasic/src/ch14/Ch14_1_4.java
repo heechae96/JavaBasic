@@ -42,7 +42,7 @@ public class Ch14_1_4 {
 		//	-> 람다식(익명 객체)을 다루기 위한 참조변수가 필요. 참조변수의 타입은?
 		
 		// 람다식. 익명 객체
-//		Object obj = (a,b) -> a > b ? a : b
+//		Object obj = (a,b) -> a > b ? a : b;
 		// 익명클래스, 익명 객체이지만 객체의 선언과 생성을 동시에
 //		Object obj = new Object() {
 //			int max(int a, int b) {
