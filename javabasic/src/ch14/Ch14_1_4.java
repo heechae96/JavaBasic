@@ -19,7 +19,7 @@ public class Ch14_1_4 {
 //		}
 		
 //		(int a, int b) -> {
-//			return a > b ? a: b
+//			return a > b ? a : b
 //		}
 		
 		// 함수와 메서드의 차이?
