@@ -14,7 +14,7 @@ public class Ch14_1_4 {
 //		(a,b) -> a > b ? a : b
 		
 		// 익명 함수(이름이 없는 함수, anonymous function)
-//		int max(ina a, int b) {
+//		int max(int a, int b) {
 //			return a > b ? a : b;
 //		}
 		
