@@ -3,7 +3,7 @@ package ch14;
 import java.util.function.*;
 import java.util.*;
 
-public class Ch14_7 {
+public class Ch14_7_8 {
 	
 	public static void main(String[] args) {
 	
